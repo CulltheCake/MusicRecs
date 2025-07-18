@@ -1,0 +1,3 @@
+# application.properties.example
+spotify.client.id=YOUR_SPOTIFY_CLIENT_ID
+spotify.client.secret=YOUR_SPOTIFY_CLIENT_SECRET
